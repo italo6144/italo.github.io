@@ -1,0 +1,34 @@
+ <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+    <h1>Postos Turísticos de Santa Catarina</h1>
+<div id="serra">
+    <h2>1. Serra do Rio do Rastro</h2>
+        <img src="/img/download.jpg" alt="">
+            <p>São 284 curvas sinuosas em um percurso de 12 km na encosta de paredões e abismos muito altos.<br> A pista é bem estreita e é quase impossível fazer qualquer tipo de ultrapassagem. </p>
+</div>
+<hr>
+<div id="blumenau">
+
+    <h2>2. Oktoberfest - Blumenau</h2>
+        <img src="/img/download (1).jpg" alt="">
+            <p>Festa que celebra a cultura alemã e acontece anualmente na cidade de Blumenau, em Santa Catarina.<br> A festa dura o mês de Outubro quase inteiro e é considerada a maior festa alemã das Américas.</p>
+</div>
+<hr>
+<div id="beto">
+
+    <h2>3. Beto Carrero World - Penha</h2>
+        <img src="/img/download (2).jpg" alt="">
+            <p>Maior parque de diversões da América Latina. Localizado no norte do estado de Santa Catarina,<br> na cidade de Penha, é um ponto turístico que agrada todas as idades e recebe visitantes do Brasil inteiro.</p>
+
+</div>
+    
+</body>
+</html> 
